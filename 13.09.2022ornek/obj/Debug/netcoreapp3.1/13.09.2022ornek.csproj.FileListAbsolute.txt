@@ -1,0 +1,14 @@
+D:\Users\Ozan\Desktop\ozztech c#\13.09.2022ornek\bin\Debug\netcoreapp3.1\13.09.2022ornek.exe
+D:\Users\Ozan\Desktop\ozztech c#\13.09.2022ornek\bin\Debug\netcoreapp3.1\13.09.2022ornek.deps.json
+D:\Users\Ozan\Desktop\ozztech c#\13.09.2022ornek\bin\Debug\netcoreapp3.1\13.09.2022ornek.runtimeconfig.json
+D:\Users\Ozan\Desktop\ozztech c#\13.09.2022ornek\bin\Debug\netcoreapp3.1\13.09.2022ornek.runtimeconfig.dev.json
+D:\Users\Ozan\Desktop\ozztech c#\13.09.2022ornek\bin\Debug\netcoreapp3.1\13.09.2022ornek.dll
+D:\Users\Ozan\Desktop\ozztech c#\13.09.2022ornek\bin\Debug\netcoreapp3.1\13.09.2022ornek.pdb
+D:\Users\Ozan\Desktop\ozztech c#\13.09.2022ornek\obj\Debug\netcoreapp3.1\13.09.2022ornek.csprojAssemblyReference.cache
+D:\Users\Ozan\Desktop\ozztech c#\13.09.2022ornek\obj\Debug\netcoreapp3.1\13.09.2022ornek.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Ozan\Desktop\ozztech c#\13.09.2022ornek\obj\Debug\netcoreapp3.1\13.09.2022ornek.AssemblyInfoInputs.cache
+D:\Users\Ozan\Desktop\ozztech c#\13.09.2022ornek\obj\Debug\netcoreapp3.1\13.09.2022ornek.AssemblyInfo.cs
+D:\Users\Ozan\Desktop\ozztech c#\13.09.2022ornek\obj\Debug\netcoreapp3.1\13.09.2022ornek.csproj.CoreCompileInputs.cache
+D:\Users\Ozan\Desktop\ozztech c#\13.09.2022ornek\obj\Debug\netcoreapp3.1\13.09.2022ornek.dll
+D:\Users\Ozan\Desktop\ozztech c#\13.09.2022ornek\obj\Debug\netcoreapp3.1\13.09.2022ornek.pdb
+D:\Users\Ozan\Desktop\ozztech c#\13.09.2022ornek\obj\Debug\netcoreapp3.1\13.09.2022ornek.genruntimeconfig.cache

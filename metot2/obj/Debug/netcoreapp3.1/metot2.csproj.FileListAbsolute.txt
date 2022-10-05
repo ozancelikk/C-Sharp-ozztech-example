@@ -1,0 +1,14 @@
+D:\Users\Ozan\Desktop\ozztech c#\metot2\bin\Debug\netcoreapp3.1\metot2.exe
+D:\Users\Ozan\Desktop\ozztech c#\metot2\bin\Debug\netcoreapp3.1\metot2.deps.json
+D:\Users\Ozan\Desktop\ozztech c#\metot2\bin\Debug\netcoreapp3.1\metot2.runtimeconfig.json
+D:\Users\Ozan\Desktop\ozztech c#\metot2\bin\Debug\netcoreapp3.1\metot2.runtimeconfig.dev.json
+D:\Users\Ozan\Desktop\ozztech c#\metot2\bin\Debug\netcoreapp3.1\metot2.dll
+D:\Users\Ozan\Desktop\ozztech c#\metot2\bin\Debug\netcoreapp3.1\metot2.pdb
+D:\Users\Ozan\Desktop\ozztech c#\metot2\obj\Debug\netcoreapp3.1\metot2.csprojAssemblyReference.cache
+D:\Users\Ozan\Desktop\ozztech c#\metot2\obj\Debug\netcoreapp3.1\metot2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Ozan\Desktop\ozztech c#\metot2\obj\Debug\netcoreapp3.1\metot2.AssemblyInfoInputs.cache
+D:\Users\Ozan\Desktop\ozztech c#\metot2\obj\Debug\netcoreapp3.1\metot2.AssemblyInfo.cs
+D:\Users\Ozan\Desktop\ozztech c#\metot2\obj\Debug\netcoreapp3.1\metot2.csproj.CoreCompileInputs.cache
+D:\Users\Ozan\Desktop\ozztech c#\metot2\obj\Debug\netcoreapp3.1\metot2.dll
+D:\Users\Ozan\Desktop\ozztech c#\metot2\obj\Debug\netcoreapp3.1\metot2.pdb
+D:\Users\Ozan\Desktop\ozztech c#\metot2\obj\Debug\netcoreapp3.1\metot2.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\ozan.celik\Desktop\c#\Donguler\bin\Debug\netcoreapp3.1\Donguler.exe
+C:\Users\ozan.celik\Desktop\c#\Donguler\bin\Debug\netcoreapp3.1\Donguler.deps.json
+C:\Users\ozan.celik\Desktop\c#\Donguler\bin\Debug\netcoreapp3.1\Donguler.runtimeconfig.json
+C:\Users\ozan.celik\Desktop\c#\Donguler\bin\Debug\netcoreapp3.1\Donguler.runtimeconfig.dev.json
+C:\Users\ozan.celik\Desktop\c#\Donguler\bin\Debug\netcoreapp3.1\Donguler.dll
+C:\Users\ozan.celik\Desktop\c#\Donguler\bin\Debug\netcoreapp3.1\Donguler.pdb
+C:\Users\ozan.celik\Desktop\c#\Donguler\obj\Debug\netcoreapp3.1\Donguler.csproj.AssemblyReference.cache
+C:\Users\ozan.celik\Desktop\c#\Donguler\obj\Debug\netcoreapp3.1\Donguler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozan.celik\Desktop\c#\Donguler\obj\Debug\netcoreapp3.1\Donguler.AssemblyInfoInputs.cache
+C:\Users\ozan.celik\Desktop\c#\Donguler\obj\Debug\netcoreapp3.1\Donguler.AssemblyInfo.cs
+C:\Users\ozan.celik\Desktop\c#\Donguler\obj\Debug\netcoreapp3.1\Donguler.csproj.CoreCompileInputs.cache
+C:\Users\ozan.celik\Desktop\c#\Donguler\obj\Debug\netcoreapp3.1\Donguler.dll
+C:\Users\ozan.celik\Desktop\c#\Donguler\obj\Debug\netcoreapp3.1\Donguler.pdb
+C:\Users\ozan.celik\Desktop\c#\Donguler\obj\Debug\netcoreapp3.1\Donguler.genruntimeconfig.cache

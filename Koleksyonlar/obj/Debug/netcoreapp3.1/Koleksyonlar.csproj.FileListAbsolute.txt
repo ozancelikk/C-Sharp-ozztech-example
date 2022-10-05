@@ -1,0 +1,14 @@
+D:\Users\Ozan\Desktop\ozztech c#\Koleksyonlar\bin\Debug\netcoreapp3.1\Koleksyonlar.exe
+D:\Users\Ozan\Desktop\ozztech c#\Koleksyonlar\bin\Debug\netcoreapp3.1\Koleksyonlar.deps.json
+D:\Users\Ozan\Desktop\ozztech c#\Koleksyonlar\bin\Debug\netcoreapp3.1\Koleksyonlar.runtimeconfig.json
+D:\Users\Ozan\Desktop\ozztech c#\Koleksyonlar\bin\Debug\netcoreapp3.1\Koleksyonlar.runtimeconfig.dev.json
+D:\Users\Ozan\Desktop\ozztech c#\Koleksyonlar\bin\Debug\netcoreapp3.1\Koleksyonlar.dll
+D:\Users\Ozan\Desktop\ozztech c#\Koleksyonlar\bin\Debug\netcoreapp3.1\Koleksyonlar.pdb
+D:\Users\Ozan\Desktop\ozztech c#\Koleksyonlar\obj\Debug\netcoreapp3.1\Koleksyonlar.csprojAssemblyReference.cache
+D:\Users\Ozan\Desktop\ozztech c#\Koleksyonlar\obj\Debug\netcoreapp3.1\Koleksyonlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Ozan\Desktop\ozztech c#\Koleksyonlar\obj\Debug\netcoreapp3.1\Koleksyonlar.AssemblyInfoInputs.cache
+D:\Users\Ozan\Desktop\ozztech c#\Koleksyonlar\obj\Debug\netcoreapp3.1\Koleksyonlar.AssemblyInfo.cs
+D:\Users\Ozan\Desktop\ozztech c#\Koleksyonlar\obj\Debug\netcoreapp3.1\Koleksyonlar.csproj.CoreCompileInputs.cache
+D:\Users\Ozan\Desktop\ozztech c#\Koleksyonlar\obj\Debug\netcoreapp3.1\Koleksyonlar.dll
+D:\Users\Ozan\Desktop\ozztech c#\Koleksyonlar\obj\Debug\netcoreapp3.1\Koleksyonlar.pdb
+D:\Users\Ozan\Desktop\ozztech c#\Koleksyonlar\obj\Debug\netcoreapp3.1\Koleksyonlar.genruntimeconfig.cache

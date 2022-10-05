@@ -1,0 +1,14 @@
+D:\Users\Ozan\Desktop\ozztech c#\Generics\bin\Debug\netcoreapp3.1\Generics.exe
+D:\Users\Ozan\Desktop\ozztech c#\Generics\bin\Debug\netcoreapp3.1\Generics.deps.json
+D:\Users\Ozan\Desktop\ozztech c#\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.json
+D:\Users\Ozan\Desktop\ozztech c#\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.dev.json
+D:\Users\Ozan\Desktop\ozztech c#\Generics\bin\Debug\netcoreapp3.1\Generics.dll
+D:\Users\Ozan\Desktop\ozztech c#\Generics\bin\Debug\netcoreapp3.1\Generics.pdb
+D:\Users\Ozan\Desktop\ozztech c#\Generics\obj\Debug\netcoreapp3.1\Generics.csprojAssemblyReference.cache
+D:\Users\Ozan\Desktop\ozztech c#\Generics\obj\Debug\netcoreapp3.1\Generics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Ozan\Desktop\ozztech c#\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfoInputs.cache
+D:\Users\Ozan\Desktop\ozztech c#\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfo.cs
+D:\Users\Ozan\Desktop\ozztech c#\Generics\obj\Debug\netcoreapp3.1\Generics.csproj.CoreCompileInputs.cache
+D:\Users\Ozan\Desktop\ozztech c#\Generics\obj\Debug\netcoreapp3.1\Generics.dll
+D:\Users\Ozan\Desktop\ozztech c#\Generics\obj\Debug\netcoreapp3.1\Generics.pdb
+D:\Users\Ozan\Desktop\ozztech c#\Generics\obj\Debug\netcoreapp3.1\Generics.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Users\Ozan\Desktop\ozztech c#\ReferenceTypes\bin\Debug\netcoreapp3.1\ReferenceTypes.exe
+D:\Users\Ozan\Desktop\ozztech c#\ReferenceTypes\bin\Debug\netcoreapp3.1\ReferenceTypes.deps.json
+D:\Users\Ozan\Desktop\ozztech c#\ReferenceTypes\bin\Debug\netcoreapp3.1\ReferenceTypes.runtimeconfig.json
+D:\Users\Ozan\Desktop\ozztech c#\ReferenceTypes\bin\Debug\netcoreapp3.1\ReferenceTypes.runtimeconfig.dev.json
+D:\Users\Ozan\Desktop\ozztech c#\ReferenceTypes\bin\Debug\netcoreapp3.1\ReferenceTypes.dll
+D:\Users\Ozan\Desktop\ozztech c#\ReferenceTypes\bin\Debug\netcoreapp3.1\ReferenceTypes.pdb
+D:\Users\Ozan\Desktop\ozztech c#\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Ozan\Desktop\ozztech c#\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.AssemblyInfoInputs.cache
+D:\Users\Ozan\Desktop\ozztech c#\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.AssemblyInfo.cs
+D:\Users\Ozan\Desktop\ozztech c#\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.csproj.CoreCompileInputs.cache
+D:\Users\Ozan\Desktop\ozztech c#\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.dll
+D:\Users\Ozan\Desktop\ozztech c#\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.pdb
+D:\Users\Ozan\Desktop\ozztech c#\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.genruntimeconfig.cache
+D:\Users\Ozan\Desktop\ozztech c#\ReferenceTypes\obj\Debug\netcoreapp3.1\ReferenceTypes.csprojAssemblyReference.cache

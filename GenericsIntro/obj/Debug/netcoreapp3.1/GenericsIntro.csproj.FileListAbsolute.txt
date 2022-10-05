@@ -1,0 +1,14 @@
+D:\Users\Ozan\Desktop\ozztech c#\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.exe
+D:\Users\Ozan\Desktop\ozztech c#\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.deps.json
+D:\Users\Ozan\Desktop\ozztech c#\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.runtimeconfig.json
+D:\Users\Ozan\Desktop\ozztech c#\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.runtimeconfig.dev.json
+D:\Users\Ozan\Desktop\ozztech c#\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.dll
+D:\Users\Ozan\Desktop\ozztech c#\GenericsIntro\bin\Debug\netcoreapp3.1\GenericsIntro.pdb
+D:\Users\Ozan\Desktop\ozztech c#\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.csprojAssemblyReference.cache
+D:\Users\Ozan\Desktop\ozztech c#\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Ozan\Desktop\ozztech c#\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.AssemblyInfoInputs.cache
+D:\Users\Ozan\Desktop\ozztech c#\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.AssemblyInfo.cs
+D:\Users\Ozan\Desktop\ozztech c#\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.csproj.CoreCompileInputs.cache
+D:\Users\Ozan\Desktop\ozztech c#\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.dll
+D:\Users\Ozan\Desktop\ozztech c#\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.pdb
+D:\Users\Ozan\Desktop\ozztech c#\GenericsIntro\obj\Debug\netcoreapp3.1\GenericsIntro.genruntimeconfig.cache

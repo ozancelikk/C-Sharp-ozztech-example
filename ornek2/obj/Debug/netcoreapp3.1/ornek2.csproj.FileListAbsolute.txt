@@ -1,0 +1,14 @@
+C:\Users\ozan.celik\Desktop\c#\ornek2\bin\Debug\netcoreapp3.1\ornek2.exe
+C:\Users\ozan.celik\Desktop\c#\ornek2\bin\Debug\netcoreapp3.1\ornek2.deps.json
+C:\Users\ozan.celik\Desktop\c#\ornek2\bin\Debug\netcoreapp3.1\ornek2.runtimeconfig.json
+C:\Users\ozan.celik\Desktop\c#\ornek2\bin\Debug\netcoreapp3.1\ornek2.runtimeconfig.dev.json
+C:\Users\ozan.celik\Desktop\c#\ornek2\bin\Debug\netcoreapp3.1\ornek2.dll
+C:\Users\ozan.celik\Desktop\c#\ornek2\bin\Debug\netcoreapp3.1\ornek2.pdb
+C:\Users\ozan.celik\Desktop\c#\ornek2\obj\Debug\netcoreapp3.1\ornek2.csproj.AssemblyReference.cache
+C:\Users\ozan.celik\Desktop\c#\ornek2\obj\Debug\netcoreapp3.1\ornek2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozan.celik\Desktop\c#\ornek2\obj\Debug\netcoreapp3.1\ornek2.AssemblyInfoInputs.cache
+C:\Users\ozan.celik\Desktop\c#\ornek2\obj\Debug\netcoreapp3.1\ornek2.AssemblyInfo.cs
+C:\Users\ozan.celik\Desktop\c#\ornek2\obj\Debug\netcoreapp3.1\ornek2.csproj.CoreCompileInputs.cache
+C:\Users\ozan.celik\Desktop\c#\ornek2\obj\Debug\netcoreapp3.1\ornek2.dll
+C:\Users\ozan.celik\Desktop\c#\ornek2\obj\Debug\netcoreapp3.1\ornek2.pdb
+C:\Users\ozan.celik\Desktop\c#\ornek2\obj\Debug\netcoreapp3.1\ornek2.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Users\Ozan\Desktop\ozztech c#\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.exe
+D:\Users\Ozan\Desktop\ozztech c#\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.deps.json
+D:\Users\Ozan\Desktop\ozztech c#\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.runtimeconfig.json
+D:\Users\Ozan\Desktop\ozztech c#\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.runtimeconfig.dev.json
+D:\Users\Ozan\Desktop\ozztech c#\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.dll
+D:\Users\Ozan\Desktop\ozztech c#\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.pdb
+D:\Users\Ozan\Desktop\ozztech c#\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.csprojAssemblyReference.cache
+D:\Users\Ozan\Desktop\ozztech c#\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Ozan\Desktop\ozztech c#\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.AssemblyInfoInputs.cache
+D:\Users\Ozan\Desktop\ozztech c#\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.AssemblyInfo.cs
+D:\Users\Ozan\Desktop\ozztech c#\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.csproj.CoreCompileInputs.cache
+D:\Users\Ozan\Desktop\ozztech c#\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.dll
+D:\Users\Ozan\Desktop\ozztech c#\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.pdb
+D:\Users\Ozan\Desktop\ozztech c#\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.genruntimeconfig.cache

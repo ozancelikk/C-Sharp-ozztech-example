@@ -1,0 +1,14 @@
+D:\Users\Ozan\Desktop\ozztech c#\GameProject\bin\Debug\netcoreapp3.1\GameProject.exe
+D:\Users\Ozan\Desktop\ozztech c#\GameProject\bin\Debug\netcoreapp3.1\GameProject.deps.json
+D:\Users\Ozan\Desktop\ozztech c#\GameProject\bin\Debug\netcoreapp3.1\GameProject.runtimeconfig.json
+D:\Users\Ozan\Desktop\ozztech c#\GameProject\bin\Debug\netcoreapp3.1\GameProject.runtimeconfig.dev.json
+D:\Users\Ozan\Desktop\ozztech c#\GameProject\bin\Debug\netcoreapp3.1\GameProject.dll
+D:\Users\Ozan\Desktop\ozztech c#\GameProject\bin\Debug\netcoreapp3.1\GameProject.pdb
+D:\Users\Ozan\Desktop\ozztech c#\GameProject\obj\Debug\netcoreapp3.1\GameProject.csprojAssemblyReference.cache
+D:\Users\Ozan\Desktop\ozztech c#\GameProject\obj\Debug\netcoreapp3.1\GameProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Ozan\Desktop\ozztech c#\GameProject\obj\Debug\netcoreapp3.1\GameProject.AssemblyInfoInputs.cache
+D:\Users\Ozan\Desktop\ozztech c#\GameProject\obj\Debug\netcoreapp3.1\GameProject.AssemblyInfo.cs
+D:\Users\Ozan\Desktop\ozztech c#\GameProject\obj\Debug\netcoreapp3.1\GameProject.csproj.CoreCompileInputs.cache
+D:\Users\Ozan\Desktop\ozztech c#\GameProject\obj\Debug\netcoreapp3.1\GameProject.dll
+D:\Users\Ozan\Desktop\ozztech c#\GameProject\obj\Debug\netcoreapp3.1\GameProject.pdb
+D:\Users\Ozan\Desktop\ozztech c#\GameProject\obj\Debug\netcoreapp3.1\GameProject.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Users\Ozan\Desktop\ozztech c#\Matematik\bin\Debug\netcoreapp3.1\Matematik.exe
+D:\Users\Ozan\Desktop\ozztech c#\Matematik\bin\Debug\netcoreapp3.1\Matematik.deps.json
+D:\Users\Ozan\Desktop\ozztech c#\Matematik\bin\Debug\netcoreapp3.1\Matematik.runtimeconfig.json
+D:\Users\Ozan\Desktop\ozztech c#\Matematik\bin\Debug\netcoreapp3.1\Matematik.runtimeconfig.dev.json
+D:\Users\Ozan\Desktop\ozztech c#\Matematik\bin\Debug\netcoreapp3.1\Matematik.dll
+D:\Users\Ozan\Desktop\ozztech c#\Matematik\bin\Debug\netcoreapp3.1\Matematik.pdb
+D:\Users\Ozan\Desktop\ozztech c#\Matematik\obj\Debug\netcoreapp3.1\Matematik.csprojAssemblyReference.cache
+D:\Users\Ozan\Desktop\ozztech c#\Matematik\obj\Debug\netcoreapp3.1\Matematik.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Ozan\Desktop\ozztech c#\Matematik\obj\Debug\netcoreapp3.1\Matematik.AssemblyInfoInputs.cache
+D:\Users\Ozan\Desktop\ozztech c#\Matematik\obj\Debug\netcoreapp3.1\Matematik.AssemblyInfo.cs
+D:\Users\Ozan\Desktop\ozztech c#\Matematik\obj\Debug\netcoreapp3.1\Matematik.csproj.CoreCompileInputs.cache
+D:\Users\Ozan\Desktop\ozztech c#\Matematik\obj\Debug\netcoreapp3.1\Matematik.dll
+D:\Users\Ozan\Desktop\ozztech c#\Matematik\obj\Debug\netcoreapp3.1\Matematik.pdb
+D:\Users\Ozan\Desktop\ozztech c#\Matematik\obj\Debug\netcoreapp3.1\Matematik.genruntimeconfig.cache

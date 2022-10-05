@@ -1,0 +1,14 @@
+D:\Users\Ozan\Desktop\ozztech c#\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.exe
+D:\Users\Ozan\Desktop\ozztech c#\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.deps.json
+D:\Users\Ozan\Desktop\ozztech c#\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.json
+D:\Users\Ozan\Desktop\ozztech c#\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.dev.json
+D:\Users\Ozan\Desktop\ozztech c#\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.dll
+D:\Users\Ozan\Desktop\ozztech c#\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.pdb
+D:\Users\Ozan\Desktop\ozztech c#\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csprojAssemblyReference.cache
+D:\Users\Ozan\Desktop\ozztech c#\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Ozan\Desktop\ozztech c#\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfoInputs.cache
+D:\Users\Ozan\Desktop\ozztech c#\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfo.cs
+D:\Users\Ozan\Desktop\ozztech c#\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.CoreCompileInputs.cache
+D:\Users\Ozan\Desktop\ozztech c#\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.dll
+D:\Users\Ozan\Desktop\ozztech c#\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.pdb
+D:\Users\Ozan\Desktop\ozztech c#\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.genruntimeconfig.cache

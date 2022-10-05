@@ -1,0 +1,14 @@
+D:\Users\Ozan\Desktop\ozztech c#\Constructors\bin\Debug\netcoreapp3.1\Constructors.exe
+D:\Users\Ozan\Desktop\ozztech c#\Constructors\bin\Debug\netcoreapp3.1\Constructors.deps.json
+D:\Users\Ozan\Desktop\ozztech c#\Constructors\bin\Debug\netcoreapp3.1\Constructors.runtimeconfig.json
+D:\Users\Ozan\Desktop\ozztech c#\Constructors\bin\Debug\netcoreapp3.1\Constructors.runtimeconfig.dev.json
+D:\Users\Ozan\Desktop\ozztech c#\Constructors\bin\Debug\netcoreapp3.1\Constructors.dll
+D:\Users\Ozan\Desktop\ozztech c#\Constructors\bin\Debug\netcoreapp3.1\Constructors.pdb
+D:\Users\Ozan\Desktop\ozztech c#\Constructors\obj\Debug\netcoreapp3.1\Constructors.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Ozan\Desktop\ozztech c#\Constructors\obj\Debug\netcoreapp3.1\Constructors.AssemblyInfoInputs.cache
+D:\Users\Ozan\Desktop\ozztech c#\Constructors\obj\Debug\netcoreapp3.1\Constructors.AssemblyInfo.cs
+D:\Users\Ozan\Desktop\ozztech c#\Constructors\obj\Debug\netcoreapp3.1\Constructors.csproj.CoreCompileInputs.cache
+D:\Users\Ozan\Desktop\ozztech c#\Constructors\obj\Debug\netcoreapp3.1\Constructors.dll
+D:\Users\Ozan\Desktop\ozztech c#\Constructors\obj\Debug\netcoreapp3.1\Constructors.pdb
+D:\Users\Ozan\Desktop\ozztech c#\Constructors\obj\Debug\netcoreapp3.1\Constructors.genruntimeconfig.cache
+D:\Users\Ozan\Desktop\ozztech c#\Constructors\obj\Debug\netcoreapp3.1\Constructors.csprojAssemblyReference.cache

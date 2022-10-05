@@ -1,0 +1,16 @@
+C:\Users\ozan.celik\Desktop\c#\ClassIntro2\bin\Debug\netcoreapp3.1\ClassIntro2.exe
+C:\Users\ozan.celik\Desktop\c#\ClassIntro2\bin\Debug\netcoreapp3.1\ClassIntro2.deps.json
+C:\Users\ozan.celik\Desktop\c#\ClassIntro2\bin\Debug\netcoreapp3.1\ClassIntro2.runtimeconfig.json
+C:\Users\ozan.celik\Desktop\c#\ClassIntro2\bin\Debug\netcoreapp3.1\ClassIntro2.runtimeconfig.dev.json
+C:\Users\ozan.celik\Desktop\c#\ClassIntro2\bin\Debug\netcoreapp3.1\ClassIntro2.dll
+C:\Users\ozan.celik\Desktop\c#\ClassIntro2\bin\Debug\netcoreapp3.1\ClassIntro2.pdb
+C:\Users\ozan.celik\Desktop\c#\ClassIntro2\obj\Debug\netcoreapp3.1\ClassIntro2.csproj.AssemblyReference.cache
+C:\Users\ozan.celik\Desktop\c#\ClassIntro2\obj\Debug\netcoreapp3.1\ClassIntro2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozan.celik\Desktop\c#\ClassIntro2\obj\Debug\netcoreapp3.1\ClassIntro2.AssemblyInfoInputs.cache
+C:\Users\ozan.celik\Desktop\c#\ClassIntro2\obj\Debug\netcoreapp3.1\ClassIntro2.AssemblyInfo.cs
+C:\Users\ozan.celik\Desktop\c#\ClassIntro2\obj\Debug\netcoreapp3.1\ClassIntro2.csproj.CoreCompileInputs.cache
+C:\Users\ozan.celik\Desktop\c#\ClassIntro2\obj\Debug\netcoreapp3.1\ClassIntro2.dll
+C:\Users\ozan.celik\Desktop\c#\ClassIntro2\obj\Debug\netcoreapp3.1\ClassIntro2.pdb
+C:\Users\ozan.celik\Desktop\c#\ClassIntro2\obj\Debug\netcoreapp3.1\ClassIntro2.genruntimeconfig.cache
+D:\Users\Ozan\Desktop\ozztech c#\ClassIntro2\obj\Debug\netcoreapp3.1\ClassIntro2.dll
+D:\Users\Ozan\Desktop\ozztech c#\ClassIntro2\obj\Debug\netcoreapp3.1\ClassIntro2.pdb
